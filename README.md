@@ -1,6 +1,6 @@
-<h1 align="center">Welcome to the profile of</h1>
+<h1 align="center">Hey, I'm</h1>
 <p align="center">
-  <img src="logo.png" alt="Logo" width="800"/>
+  Noel (cool logo pending)
 </p>
 <h3 align="center">I'm a CompSci student at 42, (ex)concept / 3D artist and hobby electronic music production ethusiast.</h3>
 
