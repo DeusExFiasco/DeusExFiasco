@@ -1,7 +1,7 @@
-<h1 align="center">Hey, I'm</h1>
-<p align="center">
+<h2 align="center">Hey, I'm</h2>
+<h1 align="center">
   Noel (cool logo pending)
-</p>
+</h1>
 <h3 align="center">I'm a CompSci student at 42, (ex)concept / 3D artist and hobby electronic music production ethusiast.</h3>
 
 ### 🔧 &nbsp;My Toolbox
@@ -35,7 +35,7 @@ All still work in progress at the moment or coming up.
 
 <p align="center">
 <a href="https://github.com/kixikCodes">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=kixikCodes&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kixikCodes&layout=compact&langs_count=4&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=DeusExFiasco&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DeusExFiasco&layout=compact&langs_count=4&theme=radical"/>
 </a>
 </p>
