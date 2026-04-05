@@ -1,22 +1,6 @@
 <h2 align="center">Hey, I'm</h2>
 
-```
-                                               :                              
-                           L.                 t#,            ,;               
-                           EW:        ,ft    ;##W.         f#i            i   
-                           E##;       t#E   :#L:WE       .E#t            LE   
-                           E###t      t#E  .KG  ,#D     i#W,            L#E   
-                           E#fE#f     t#E  EE    ;#f   L#D.            G#W.   
-                           E#t D#G    t#E f#.     t#i:K#Wfff;         D#K.    
-                           E#t  f#E.  t#E :#G     GK i##WLLLLt       E#K.     
-                           E#t   t#K: t#E  ;#L   LW.  .E#L         .E#E.      
-                           E#t    ;#W,t#E   t#f f#:     f#E:      .K#E        
-                           E#t     :K#D#E    f#D#;       ,WW;    .K#D         
-                           E#t      .E##E     G#t         .D#;  .W#G          
-                           ..         G#E      t            tt :W##########Wt 
-                                       fE                      :,,,,,,,,,,,,,.
-                                        ,                                     
-```
+
 
 <h3 align="center">I'm a CompSci student at 42, (ex)concept / 3D artist and hobby electronic music production ethusiast.</h3>
 
@@ -25,11 +9,11 @@
 <p align="left">
   <a href="https://skillicons.dev">
     <p>Tools/Frameworks:</p>
-    <img src="https://skillicons.dev/icons?i=git,docker,cmake,dotnet,npm,nodejs,markdown,vite" />
+    <img src="https://skillicons.dev/icons?i=git,docker,cmake,dotnet,npm,nodejs,markdown,vite,raspberrypi" />
     <p>Software:</p>
-    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,neovim,obsidian,unity,unreal,photoshop,notion" />
+    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,intellij,obsidian,unity,unreal,photoshop,protopie" />
     <p>Languages:</p>
-    <img src="https://skillicons.dev/icons?i=bash,c,cpp,cs,js,ts,html,css" />
+    <img src="https://skillicons.dev/icons?i=bash,c,cpp,cs,js,ts,html,css,python,kotlin" />
   </a>
 </p>
 
