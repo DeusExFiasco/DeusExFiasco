@@ -1,7 +1,7 @@
 <h2 align="center">Hey, I'm</h2>
-
-
-
+<p align="center">
+  <img src="logo.png" alt="Logo" width="800"/>
+</p>
 <h3 align="center">I'm a CompSci student at 42, (ex)concept / 3D artist and hobby electronic music production ethusiast.</h3>
 
 ### 🔧 &nbsp;My Toolbox
@@ -9,11 +9,11 @@
 <p align="left">
   <a href="https://skillicons.dev">
     <p>Tools/Frameworks:</p>
-    <img src="https://skillicons.dev/icons?i=git,docker,cmake,dotnet,npm,nodejs,markdown,vite,raspberrypi" />
+    <img src="https://skillicons.dev/icons?i=arch,git,docker,cmake,dotnet,npm,nodejs,markdown,vite,raspberrypi" />
     <p>Software:</p>
-    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,intellij,obsidian,unity,unreal,photoshop,protopie" />
+    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,idea,obsidian,unity,unreal,photoshop,figma" />
     <p>Languages:</p>
-    <img src="https://skillicons.dev/icons?i=bash,c,cpp,cs,js,ts,html,css,python,kotlin" />
+    <img src="https://skillicons.dev/icons?i=bash,c,cpp,cs,js,ts,html,css,python,kotlin,gradle,powershell,bash" />
   </a>
 </p>
 
