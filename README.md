@@ -13,7 +13,7 @@
     <p>Software:</p>
     <img src="https://skillicons.dev/icons?i=vscode,visualstudio,idea,obsidian,unity,unreal,photoshop,figma" />
     <p>Languages:</p>
-    <img src="https://skillicons.dev/icons?i=bash,c,cpp,cs,js,ts,html,css,python,kotlin,gradle,powershell,bash" />
+    <img src="https://skillicons.dev/icons?i=bash,c,cpp,cs,js,ts,html,css,python,kotlin,gradle,powershell" />
   </a>
 </p>
 
