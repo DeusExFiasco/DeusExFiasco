@@ -2,7 +2,7 @@
 <p align="center">
   <img src="logo.png" alt="Logo" width="800"/>
 </p>
-<h3 align="center">I'm a CompSci student at 42, (ex)concept / 3D artist and hobby electronic music production ethusiast.</h3>
+<h3 align="center">I'm a Mastery student at 42 (currently doing an internship), previously concept / 3D artist and hobby electronic music production ethusiast.</h3>
 
 ### 🔧 &nbsp;My Toolbox
 
@@ -29,7 +29,7 @@ All still work in progress at the moment or coming up.
 - Particle Sandbox (not public yet)
 - [BotC Gamemaster](https://github.com/kixikCodes/BOTC_Gamemaster)
 - [Advent of Code 2025](https://github.com/kixikCodes/AdventOfCode2025)
-- The soundtrack to [Cimex's](https://github.com/Cimex404) upcoming game... 🤫
+- The soundtrack to [Cimex's](https://github.com/Cimex404) upcoming game: [The Fabric of the Mind](https://store.steampowered.com/app/2294430/The_Fabric_of_the_Mind/)
 
 ### 📊 &nbsp;Profile Stats
 
