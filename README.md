@@ -35,7 +35,7 @@ All still work in progress at the moment or coming up.
 
 <p align="center">
 <a href="https://github.com/kixikCodes">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=DeusExFiasco&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DeusExFiasco&layout=compact&langs_count=4&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=KixiKcodes&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=KixiKcodes&layout=compact&langs_count=4&theme=radical"/>
 </a>
 </p>
