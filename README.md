@@ -8,12 +8,14 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <p>Tools/Frameworks:</p>
-    <img src="https://skillicons.dev/icons?i=arch,git,docker,cmake,dotnet,npm,nodejs,markdown,vite,raspberrypi" />
-    <p>Software:</p>
-    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,idea,obsidian,unity,unreal,photoshop,figma" />
-    <p>Languages:</p>
-    <img src="https://skillicons.dev/icons?i=bash,c,cpp,cs,js,ts,html,css,python,kotlin,gradle,powershell" />
+    <p>Programming Languages:</p>
+    <img src="https://skillicons.dev/icons?i=c,cpp,cs,js,ts,python,lua,java,kotlin,powershell,bash" />
+    <p>Markup Languages</p>
+    <img src="https://skillicons.dev/icons?i=html,css,markdown,regex" />
+    <p>Frameworks and Tools:</p>
+    <img src="https://skillicons.dev/icons?i=dotnet,nodejs,vite,astro,gradle,androidstudio,sqlite" />
+    <p>Systems and Software:</p>
+    <img src="https://skillicons.dev/icons?i=arch,raspberrypi,git,docker,vscode,visualstudio,idea,unity,unreal,photoshop,figma,obsidian" />
   </a>
 </p>
 
