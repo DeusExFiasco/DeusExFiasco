@@ -20,17 +20,18 @@
 ### 📚 &nbsp;Notable Academic Projects
 
 Some stuff I've done as a student I am proud of.
-- [ft_transcendence (42)](https://github.com/kixikCodes/ft_transcendence)
-- [miniRT (42)](https://github.com/kixikCodes/miniRT)
-- [Webserv (42)](https://github.com/kixikCodes/webserv)
+- [ft_transcendence (42)](https://github.com/kixikCodes/ft_transcendence): A full-stack web application featuring online tournaments, player dashboards and much more.
+- [miniRT (42)](https://github.com/kixikCodes/miniRT): A simple 3D raytracer in C using the MLX42 graphics library.
+- [Webserv (42)](https://github.com/kixikCodes/webserv): A basic HTTP server in C++ with non-blocking I/O and an example website for hosting.
 
 ### 🧪 &nbsp;Notable Personal Projects
 
 Some of my own project ideas.
-- Project Abiogenesis (in early concept stage)
-- [Grimoire](https://github.com/KixiKcodes/Grimoire)
-- And its predecessor [BotC Gamemaster](https://github.com/kixikCodes/BOTC_Gamemaster)
-- [traSH](https://github.com/KixiKcodes/traSH)
+- Project Abiogenesis (in early concept stage): My passion project.
+- [Rummikool](https://github.com/KixiKcodes/Rummikool): A CLI Rummikub solver algorithm that uses some wacky math and dymanic programming.
+- [Grimoire](https://github.com/KixiKcodes/Grimoire) (Work in Progress): My app for setting up _Blood on the Clocktower_ games easily.
+- [BotC Gamemaster](https://github.com/kixikCodes/BOTC_Gamemaster): The predecessor to Grimoire. A CLI application for setting up _Blood on the Clocktower_ games.
+- [traSH](https://github.com/KixiKcodes/traSH): A fully functional bash-like shell writen in C, instpired by the _minishell_ project from 42.
 
 ### 📊 &nbsp;Profile Stats
 
