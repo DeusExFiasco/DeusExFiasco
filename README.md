@@ -10,7 +10,7 @@
   <a href="https://skillicons.dev">
     <p>Programming Languages:</p>
     <img src="https://skillicons.dev/icons?i=c,cpp,cs,js,ts,python,lua,java,kotlin,powershell,bash" />
-    <p>Markup Languages</p>
+    <p>Markup Languages:</p>
     <img src="https://skillicons.dev/icons?i=html,css,markdown,regex" />
     <p>Frameworks and Tools:</p>
     <img src="https://skillicons.dev/icons?i=dotnet,nodejs,vite,astro,gradle,androidstudio,sqlite" />
@@ -35,11 +35,11 @@ Some of my own project ideas.
 - [BotC Gamemaster](https://github.com/kixikCodes/BOTC_Gamemaster): The predecessor to Grimoire. A CLI application for setting up _Blood on the Clocktower_ games.
 - [traSH](https://github.com/KixiKcodes/traSH): A fully functional bash-like shell writen in C, instpired by the _minishell_ project from 42.
 
-### 📊 &nbsp;Profile Stats
+### 📊 &nbsp;Profile Statistics
 
 <p align="center">
 <a href="https://github.com/kixikCodes">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=KixiKcodes&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=KixiKcodes&layout=compact&langs_count=4&theme=radical"/>
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=KixiKcodes&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=KixiKcodes&layout=compact&langs_count=4&theme=radical"/>
 </a>
 </p>
